@@ -1,3 +1,7 @@
+## My writings on management
+
+* [On giving hard feedback](feedback.md)
+
 ## My path here
 
 I moved into an engineering management role while working as a full-stack (web) developer at [Hired](https://hired.com). Just like programming, the only way to get better at managing is to work at it. While the feedback loops are much slower (it's not quite as straightforward as red-green-refactor), the big picture stays the same: read, write, talk to people. 
