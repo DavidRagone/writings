@@ -1,0 +1,3 @@
+# Virtues
+
+self-directed
