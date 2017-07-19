@@ -1,6 +1,7 @@
 ## My writings on management
 
 * [On giving hard feedback](feedback.md)
+* [On why you shouldn't become an engineering manager (but how to try it out if you really want to)](why-you-shouldnt-be-a-manager.md)
 
 ## My path here
 
